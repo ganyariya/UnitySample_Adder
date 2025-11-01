@@ -1,0 +1,11 @@
+{
+    "name": "com.ganyariya.adderpackage",
+    "displayName": "SampleAdder",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "Unity Learn. Only Add Package.",
+    "keywords": [],
+    "license": "MIT",
+    "category": "",
+    "dependencies": {}
+}
