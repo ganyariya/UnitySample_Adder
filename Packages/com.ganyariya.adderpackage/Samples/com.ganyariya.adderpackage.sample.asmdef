@@ -1,0 +1,16 @@
+{
+    "name": "com.ganyariya.adderpackage.sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2a83c2ab148584301acf3f53e971961e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
